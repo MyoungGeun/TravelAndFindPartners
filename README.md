@@ -29,7 +29,9 @@
   
 - 프로그램 목적
   
-![Uploading KakaoTalk_20240207_124130547.jpg…]()
+![KakaoTalk_20240207_124130547](https://github.com/MyoungGeun/TravelAndFindPartners/assets/134483532/ac8fdc13-e622-4a13-8342-1d29b696dbdf)
+
+
 
 
 
