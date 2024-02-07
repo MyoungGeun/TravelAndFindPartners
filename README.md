@@ -29,7 +29,8 @@
   
 - 프로그램 목적
   
-![KakaoTalk_20230906_182236565](https://github.com/MyoungGeun/TravelAndFindPartners/assets/134483532/22ba2661-a4ec-4a19-8671-70d8fb4712d2)
+![Uploading KakaoTalk_20240207_124130547.jpg…]()
+
 
 
 - 개발 기간
