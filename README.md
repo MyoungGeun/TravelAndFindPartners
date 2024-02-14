@@ -49,9 +49,9 @@
 ### 실행 방법
 준비물
 - Eclipse 
-- tomcat9.0 설치 : [apache-tomcat-9.0.76-windows-x64.zip](https://github.com/MyoungGeun/TravelAndFindPartners/files/12535667/apache-tomcat-9.0.76-windows-x64.zip)
+- tomcat9.0 설치
 - MySQL
-- DB 파일 : [project.zip](https://github.com/MyoungGeun/TravelAndFindPartners/files/12535626/project.zip)
+- DB 파일
 
 1. DB 파일 다운받아 import 
 2. tomcat 실행
