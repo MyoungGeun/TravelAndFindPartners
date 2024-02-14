@@ -53,9 +53,7 @@
 - MySQL
 - DB 파일
 
-1. DB 파일 다운받아 import 
-2. tomcat 실행
-3. hong branch src/main.java에서 실행
+hong branch src/main.java에서 실행
 
 ### 화면 구성
 ### <a href="https://github.com/MyoungGeun/TravelAndFindPartners/wiki/%ED%99%94%EB%A9%B4-%EA%B5%AC%EC%84%B1#%EB%AA%A9%EC%B0%A8">wiki에서 확인하세요.</a>
