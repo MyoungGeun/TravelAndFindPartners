@@ -11,10 +11,9 @@
 1. [프로젝트 소개](#프로젝트-소개)
 2. [주요 기능](#주요-기능)
 3. [실행 방법 및 준비물](#실행-방법)
-4. [화면 구성](#화면-구성)
-5. [기술 스택](#기술-스택)
-6. [협업 과정](#협업-과정)
-7. [팀원](#팀원)
+4. [기술 스택](#기술-스택)
+5. [협업 과정](#협업-과정)
+6. [팀원](#팀원)
 
 
 
@@ -55,9 +54,6 @@
 
 hong branch src/main.java에서 실행
 
-### 화면 구성
-### <a href="https://github.com/MyoungGeun/TravelAndFindPartners/wiki/%ED%99%94%EB%A9%B4-%EA%B5%AC%EC%84%B1#%EB%AA%A9%EC%B0%A8">wiki에서 확인하세요.</a>
-
 ### 기술 스택
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">    
 ### 협업 도구  
@@ -83,13 +79,5 @@ hong branch src/main.java에서 실행
 장명근
 - branch : myoung
 - [GitHub]https://github.com/MyoungGeun
-
-이광호
-- branch : hong
-- [GitHub]https://github.com/CommonSt
-
-정욱진
-- branch : hong
-- [GitHub]https://github.com/jungwookjin
 
 
